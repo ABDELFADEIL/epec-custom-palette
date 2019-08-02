@@ -1,0 +1,29 @@
+# Copyright (C) 2019 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version:  \n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/epec-custom-palette\n"
+"POT-Creation-Date: 2019-08-01 14:41:05+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: epec-custom-palette.php:17
+msgid "Brand Color 1"
+msgstr ""
+
+#: epec-custom-palette.php:22
+msgid "Brand Color 2"
+msgstr ""
+
+#: epec-custom-palette.php:27
+msgid "black"
+msgstr ""
+
+#: epec-custom-palette.php:32
+msgid "white"
+msgstr ""
